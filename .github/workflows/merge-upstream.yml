@@ -12,7 +12,7 @@ on:
   push:
     branches: 
       - master
-  schedule:
+ # schedule:
    # - cron: 30 19 * * *
 
 jobs:
